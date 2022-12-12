@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Gleidson Medeiros
+- 👀 I’m interested in start a career in programming
+- 🌱 I’m currently learning React, Node.JS, TypeScript, and JavaScript
+- 💞️ I’m looking to collaborate on open source projects, specially on edtech
+- 📫 You can reach me on gleidsonlm@gmail.com

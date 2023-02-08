@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Gleidson Medeiros
-- 👀 I’m interested in start a career in programming
-- 🌱 I’m currently learning React, Node.JS, TypeScript, and JavaScript
-- 💞️ I’m looking to collaborate on open source projects, specially on edtech
-- 📫 You can reach me on gleidsonlm@gmail.com
+- 👋 Hi, I’m Gleidson Medeiros.
+- 👀 I’m building applications for food, or bitcoins!
+- 🌱 I’m currently learning React.js and Node.js.
+- 💞️ I’m looking to build [AngelOn](https://github.com/users/gleidsonlm/projects/1/views/1?pane=issue&itemId=19088914), a solution for church engagement.
+- 📫 You can reach me on [gleidsonlm [at] gmail.com](mailto:gleidsonlm@gmail.com)

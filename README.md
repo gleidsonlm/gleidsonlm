@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Gleidson Medeiros.
-- 👀 I’m building applications for food, or bitcoins!
-- 🌱 I’m currently learning React.js and Node.js.
-- 💞️ I’m looking to build [AngelOn](https://github.com/users/gleidsonlm/projects/1/views/1?pane=issue&itemId=19088914), a solution for church engagement.
-- 📫 You can reach me on [gleidsonlm [at] gmail.com](mailto:gleidsonlm@gmail.com)
+- 👋 Hi, I’m Gleidson Medeiros;
+- 👀 Looking for contrib and for contribuitions;
+- 🌱 Currently learning React.js and Node.js;
+- 💞️ Idealizing [AngelOn](https://github.com/users/gleidsonlm/projects/1/views/1?pane=issue&itemId=19088914), a startup for church technologies.
+- 📫 Send me an email on [gleidsonlm [at] gmail.com](mailto:gleidsonlm@gmail.com) or connect on [LinkedIn](https://linkedin.com/in/gleidsonlm)

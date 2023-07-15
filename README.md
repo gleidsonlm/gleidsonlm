@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Gleidson Medeiros;
-- 👀 Looking for contrib and for contribuitions;
-- 🌱 Currently learning React.js and Node.js;
-- 💞️ Idealizing [AngelOn](https://github.com/users/gleidsonlm/projects/1/views/1?pane=issue&itemId=19088914), a startup for church technologies.
-- 📫 Send me an email on [gleidsonlm [at] gmail.com](mailto:gleidsonlm@gmail.com) or connect on [LinkedIn](https://linkedin.com/in/gleidsonlm)
+- 👀 Looking to contribute and collaborate with open source;
+- 🌱 Currently learning Angular, DDD, and Clean Code;
+- 👨‍🎓 Enrolled in the [RocketSeat Education](https://www.rocketseat.com.br/) and [Santander Coders 23](https://app.becas-santander.com/program/bolsas-santander-tecnologia-santander-coders-2023) programs;
+- 💞️ Idealizing [AngelOn](https://github.com/users/gleidsonlm/projects/1/views/1?pane=issue&itemId=19088914), a startup for church technologies;
+- 📫 Contact me through email at [gleidsonlm [at] gmail.com](mailto:gleidsonlm@gmail.com) or [LinkedIn](https://linkedin.com/in/gleidsonlm).
